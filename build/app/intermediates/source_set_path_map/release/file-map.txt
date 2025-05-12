@@ -1,0 +1,19 @@
+com.example.tallysheet_app-jetified-window-1.0.0-beta04-0 C:\Users\thiethv\.gradle\caches\transforms-3\07b269c96028a081abf90993be56c231\transformed\jetified-window-1.0.0-beta04\res
+com.example.tallysheet_app-jetified-play-services-base-18.1.0-1 C:\Users\thiethv\.gradle\caches\transforms-3\64852fb305de8e2f2449318d4d5dc53b\transformed\jetified-play-services-base-18.1.0\res
+com.example.tallysheet_app-jetified-window-java-1.0.0-beta04-2 C:\Users\thiethv\.gradle\caches\transforms-3\73d6a9af307f1ac12b71af07e192e3a1\transformed\jetified-window-java-1.0.0-beta04\res
+com.example.tallysheet_app-jetified-firebase-common-21.0.0-3 C:\Users\thiethv\.gradle\caches\transforms-3\886f76f6c969345a7710744c2d606058\transformed\jetified-firebase-common-21.0.0\res
+com.example.tallysheet_app-jetified-play-services-basement-18.3.0-4 C:\Users\thiethv\.gradle\caches\transforms-3\a0a047a62a42454d4aa4d08f902c8dd1\transformed\jetified-play-services-basement-18.3.0\res
+com.example.tallysheet_app-jetified-annotation-experimental-1.1.0-5 C:\Users\thiethv\.gradle\caches\transforms-3\cd0dd3369d061d54d9345855d3d01c89\transformed\jetified-annotation-experimental-1.1.0\res
+com.example.tallysheet_app-core-1.6.0-6 C:\Users\thiethv\.gradle\caches\transforms-3\d41564d1b85732343f71afc5b26416cb\transformed\core-1.6.0\res
+com.example.tallysheet_app-main-7 D:\2. Phone\Project_ios\tallysheet_app\android\app\src\main\res
+com.example.tallysheet_app-release-8 D:\2. Phone\Project_ios\tallysheet_app\android\app\src\release\res
+com.example.tallysheet_app-RES-9 D:\2. Phone\Project_ios\tallysheet_app\build\app\RES\processReleaseGoogleServices
+com.example.tallysheet_app-pngs-10 D:\2. Phone\Project_ios\tallysheet_app\build\app\generated\res\pngs\release
+com.example.tallysheet_app-resValues-11 D:\2. Phone\Project_ios\tallysheet_app\build\app\generated\res\resValues\release
+com.example.tallysheet_app-rs-12 D:\2. Phone\Project_ios\tallysheet_app\build\app\generated\res\rs\release
+com.example.tallysheet_app-mergeReleaseResources-13 D:\2. Phone\Project_ios\tallysheet_app\build\app\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.example.tallysheet_app-mergeReleaseResources-14 D:\2. Phone\Project_ios\tallysheet_app\build\app\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.example.tallysheet_app-merged_res-15 D:\2. Phone\Project_ios\tallysheet_app\build\app\intermediates\merged_res\release
+com.example.tallysheet_app-packaged_res-16 D:\2. Phone\Project_ios\tallysheet_app\build\cloud_firestore\intermediates\packaged_res\release
+com.example.tallysheet_app-packaged_res-17 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\intermediates\packaged_res\release
+com.example.tallysheet_app-packaged_res-18 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_database\intermediates\packaged_res\release

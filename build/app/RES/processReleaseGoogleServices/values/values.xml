@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">66464723328-8dr1g75op78t4g2k44r4b8fsmhp6jddc.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://shipment-e5768-default-rtdb.asia-southeast1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">66464723328</string>
+    <string name="google_api_key" translatable="false">AIzaSyAILz1Dc_PUUFQxusdj-7YL1b2kJ6XS_VI</string>
+    <string name="google_app_id" translatable="false">1:66464723328:android:e676a64dbfbff291cc1165</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAILz1Dc_PUUFQxusdj-7YL1b2kJ6XS_VI</string>
+    <string name="google_storage_bucket" translatable="false">shipment-e5768.appspot.com</string>
+    <string name="project_id" translatable="false">shipment-e5768</string>
+</resources>

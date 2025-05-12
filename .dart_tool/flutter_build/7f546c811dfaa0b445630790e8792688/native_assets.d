@@ -1,0 +1,1 @@
+ D:\\2.\ Phone\\Project_ios\\tallysheet_app\\.dart_tool\\flutter_build\\7f546c811dfaa0b445630790e8792688\\native_assets.yaml: 

@@ -1,0 +1,14 @@
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-1.0.0-beta04-0 C:\Users\thiethv\.gradle\caches\transforms-3\07b269c96028a081abf90993be56c231\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-window-java-1.0.0-beta04-1 C:\Users\thiethv\.gradle\caches\transforms-3\73d6a9af307f1ac12b71af07e192e3a1\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-firebase-common-21.0.0-2 C:\Users\thiethv\.gradle\caches\transforms-3\886f76f6c969345a7710744c2d606058\transformed\jetified-firebase-common-21.0.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-play-services-basement-18.3.0-3 C:\Users\thiethv\.gradle\caches\transforms-3\a0a047a62a42454d4aa4d08f902c8dd1\transformed\jetified-play-services-basement-18.3.0\res
+io.flutter.plugins.firebase.core.firebase_core-jetified-annotation-experimental-1.1.0-4 C:\Users\thiethv\.gradle\caches\transforms-3\cd0dd3369d061d54d9345855d3d01c89\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.firebase.core.firebase_core-core-1.6.0-5 C:\Users\thiethv\.gradle\caches\transforms-3\d41564d1b85732343f71afc5b26416cb\transformed\core-1.6.0\res
+io.flutter.plugins.firebase.core.firebase_core-main-6 C:\Users\thiethv\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.1\android\src\main\res
+io.flutter.plugins.firebase.core.firebase_core-release-7 C:\Users\thiethv\AppData\Local\Pub\Cache\hosted\pub.dev\firebase_core-3.1.1\android\src\release\res
+io.flutter.plugins.firebase.core.firebase_core-pngs-8 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\generated\res\pngs\release
+io.flutter.plugins.firebase.core.firebase_core-resValues-9 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\generated\res\resValues\release
+io.flutter.plugins.firebase.core.firebase_core-rs-10 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\generated\res\rs\release
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-11 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.firebase.core.firebase_core-mergeReleaseResources-12 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.firebase.core.firebase_core-merged_res-13 D:\2. Phone\Project_ios\tallysheet_app\build\firebase_core\intermediates\merged_res\release

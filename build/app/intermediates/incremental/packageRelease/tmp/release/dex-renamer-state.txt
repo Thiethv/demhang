@@ -1,0 +1,4 @@
+#Sat Nov 16 11:23:51 ICT 2024
+base.0=D\:\\2. Phone\\Project_ios\\tallysheet_app\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
