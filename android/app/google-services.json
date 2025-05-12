@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "66464723328",
+    "firebase_url": "https://shipment-e5768-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "shipment-e5768",
+    "storage_bucket": "shipment-e5768.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66464723328:android:e676a64dbfbff291cc1165",
+        "android_client_info": {
+          "package_name": "com.example.tallysheet_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66464723328-8dr1g75op78t4g2k44r4b8fsmhp6jddc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAILz1Dc_PUUFQxusdj-7YL1b2kJ6XS_VI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "66464723328-8dr1g75op78t4g2k44r4b8fsmhp6jddc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+
+}
